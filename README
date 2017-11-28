@@ -1,0 +1,17 @@
+Name: Sumil Majithia (majithia.sumil@gmail.com)
+Files in Zip file:
+1. main.cc
+
+How to run the program:
+
+1. Build the executable using the following:
+
+g++ main.cc -o grid_solver
+
+2. Run the executable as follows :
+./grid_solver path_to_test_case
+
+
+About Test Cases:
+
+Each test case has its own file.
